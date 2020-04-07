@@ -26,7 +26,7 @@ public class Igra {
         niz[4] = new DeoOpreme("Napitak za oporavak",250);
 
         int min = minZlata(niz);
-        int kupljeno = 0;
+
         //Igrač kupuje sve dok ima zlata za bilo koji od ovih artikala.
         //ali moze najvise 5
 
@@ -40,7 +40,7 @@ public class Igra {
                  //ovde prosledjujem referencu, u kupi metodu se poziva konstruktor kopije
                 System.out.println("kupili ste " + niz[br-1]);
                 //mozda ne uspe kupovina, mozda nemamo dovoljno zlata
-                kupljeno++;
+
             }
             //ne treba
 
@@ -59,7 +59,7 @@ public class Igra {
         for(int j = 0; j < DeoOpreme.count - 5; j++)
             System.out.println(" - " + i.inventar[j]);
         */
-        i.ispisiOpremu(kupljeno);
+        i.ispisiOpremu();
 
 
         System.out.println("Igra pocinje....");

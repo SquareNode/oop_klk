@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c8ecf73-77d8-40a2-b508-1bec71222a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/DeoOpreme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/DeoOpreme.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/Entitet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/Entitet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/Igra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/Igra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/Igrac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/Igrac.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/PokretniEntitet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/PokretniEntitet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/TestEntitet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/TestEntitet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeoOpreme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeoOpreme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entitet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entitet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Igra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Igra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Igrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Igrac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PokretniEntitet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PokretniEntitet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestEntitet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestEntitet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,22 +72,22 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="1065" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1586119345491" />
-    <state width="780" height="275" key="GridCell.Tab.0.bottom" timestamp="1586295958811">
+    <state width="780" height="275" key="GridCell.Tab.0.bottom" timestamp="1586296500587">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586295958811" />
-    <state width="780" height="275" key="GridCell.Tab.0.center" timestamp="1586295958811">
+    <state width="780" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586296500587" />
+    <state width="780" height="275" key="GridCell.Tab.0.center" timestamp="1586296500587">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="275" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586295958811" />
-    <state width="780" height="275" key="GridCell.Tab.0.left" timestamp="1586295958811">
+    <state width="780" height="275" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586296500587" />
+    <state width="780" height="275" key="GridCell.Tab.0.left" timestamp="1586296500586">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="275" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586295958811" />
-    <state width="780" height="275" key="GridCell.Tab.0.right" timestamp="1586295958811">
+    <state width="780" height="275" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586296500586" />
+    <state width="780" height="275" key="GridCell.Tab.0.right" timestamp="1586296500587">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="275" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586295958811" />
+    <state width="780" height="275" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586296500587" />
     <state width="780" height="339" key="GridCell.Tab.1.bottom" timestamp="1586295667314">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

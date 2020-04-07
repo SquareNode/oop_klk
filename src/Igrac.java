@@ -34,8 +34,8 @@ public class Igrac extends PokretniEntitet {
             numOpreme++;
         }
     }
-    void ispisiOpremu(int br) {
-        for (int i = 0; i < br; i++) {
+    void ispisiOpremu() {
+        for (int i = 0; i < numOpreme; i++) {
             System.out.println("\t -" + inventar[i]);
         }
     }
