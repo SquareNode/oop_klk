@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c8ecf73-77d8-40a2-b508-1bec71222a27" name="Default Changelist" comment="" />
+    <list default="true" id="8c8ecf73-77d8-40a2-b508-1bec71222a27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/DeoOpreme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/DeoOpreme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/Entitet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/Entitet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/Igra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/Igra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/Igrac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/Igrac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/PokretniEntitet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/PokretniEntitet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/klk videoigra/TestEntitet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/klk videoigra/TestEntitet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeoOpreme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeoOpreme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entitet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entitet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Igra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Igra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Igrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Igrac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PokretniEntitet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PokretniEntitet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestEntitet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestEntitet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a8UEhvTlXphyiuOj7g2ca99cNr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.Igra">
     <configuration name="Igra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -64,37 +83,49 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="1065" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1586119345491" />
-    <state width="780" height="339" key="GridCell.Tab.0.bottom" timestamp="1586122382282">
+    <state width="780" height="275" key="GridCell.Tab.0.bottom" timestamp="1586295958811">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="339" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586122382282" />
-    <state width="780" height="339" key="GridCell.Tab.0.center" timestamp="1586122382282">
+    <state width="780" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586295958811" />
+    <state width="780" height="275" key="GridCell.Tab.0.center" timestamp="1586295958811">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="339" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586122382282" />
-    <state width="780" height="339" key="GridCell.Tab.0.left" timestamp="1586122382282">
+    <state width="780" height="275" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586295958811" />
+    <state width="780" height="275" key="GridCell.Tab.0.left" timestamp="1586295958811">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="339" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586122382282" />
-    <state width="780" height="339" key="GridCell.Tab.0.right" timestamp="1586122382282">
+    <state width="780" height="275" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586295958811" />
+    <state width="780" height="275" key="GridCell.Tab.0.right" timestamp="1586295958811">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="339" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586122382282" />
-    <state width="780" height="339" key="GridCell.Tab.1.bottom" timestamp="1586122382282">
+    <state width="780" height="275" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586295958811" />
+    <state width="780" height="339" key="GridCell.Tab.1.bottom" timestamp="1586295667314">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="339" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586122382282" />
-    <state width="780" height="339" key="GridCell.Tab.1.center" timestamp="1586122382282">
+    <state width="780" height="339" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586295667314" />
+    <state width="780" height="339" key="GridCell.Tab.1.center" timestamp="1586295667314">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="339" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586122382282" />
-    <state width="780" height="339" key="GridCell.Tab.1.left" timestamp="1586122382282">
+    <state width="780" height="339" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586295667314" />
+    <state width="780" height="339" key="GridCell.Tab.1.left" timestamp="1586295667314">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="339" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586122382282" />
-    <state width="780" height="339" key="GridCell.Tab.1.right" timestamp="1586122382282">
+    <state width="780" height="339" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586295667314" />
+    <state width="780" height="339" key="GridCell.Tab.1.right" timestamp="1586295667314">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="780" height="339" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586122382282" />
+    <state width="780" height="339" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586295667314" />
+    <state x="955" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586290360924">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="955" y="347" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586290360924" />
+    <state x="804" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586296058365">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="804" y="377" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586296058365" />
+    <state x="923" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1586296003078">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="923" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1586296003078" />
   </component>
 </project>

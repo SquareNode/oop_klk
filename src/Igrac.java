@@ -1,19 +1,19 @@
 public class Igrac extends PokretniEntitet {
 
     private String ime;
-    public DeoOpreme[] inventar;
+    //deo opreme menjam u private
+    private DeoOpreme[] inventar;
     private int zlato;
 
-    static int numOpreme = 0;
-
+    //static int numOpreme = 0;
+    private int numOpreme = 0;
     public Igrac(String ime, double x, double y) {
-
-        super(1,0);
+        //promenjeni argumenti super, dodata vitalnost
+        super(1,0, x, y, 100);
         this.ime = ime;
-        this.x = x;
-        this.y = y;
         inventar = new DeoOpreme[5];
         zlato = 10000;
+        numOpreme = 0;
     }
 
     public String getIme() {
@@ -25,13 +25,20 @@ public class Igrac extends PokretniEntitet {
     }
 
     void kupi(DeoOpreme artikal) {
+        //inventar.length mi vraca broj alociranih el, znaci uvek 5
+        //moram nekako drugacije da brojim koliko sam elemenata kupio
         if(numOpreme < 5 && zlato >= artikal.getCena()){
+            //pozivam konstruktor kopije, ne dajem samo referencu, ovako je prvobitno bilo
             inventar[numOpreme] = new DeoOpreme(artikal);
             zlato-=artikal.getCena();
             numOpreme++;
         }
     }
-
+    void ispisiOpremu(int br) {
+        for (int i = 0; i < br; i++) {
+            System.out.println("\t -" + inventar[i]);
+        }
+    }
     @Override
     public String toString() {
         return "Igrac: " + ime + " (" + zlato + ") ;" + super.toString();

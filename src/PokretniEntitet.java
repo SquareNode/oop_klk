@@ -1,9 +1,12 @@
 public class PokretniEntitet extends Entitet {
 
     private double brzina, ugao;
-
-    public PokretniEntitet(double brzina, double ugao) {
-        super();
+    //Konstruktor koji prihvata vrednosti za oba atributa i poziva konstruktor bazne klase
+    public PokretniEntitet(double brzina, double ugao, double x, double y,
+                          int vitalnost) {
+        //da li da prosledim parametre za super() konstruktor?
+        //u tekstu ne pise da trazim i ostale parametre
+        super(x,y,vitalnost);
         this.brzina = brzina;
         this.ugao = ugao;
     }
@@ -30,7 +33,9 @@ public class PokretniEntitet extends Entitet {
 
     @Override
     public String toString() {
-        return super.toString() + "| brzina: " + brzina + ", ugao: " +
+        return "Pokretni Entitet: " + "(" + super.x + ", " + super.y + ") " +
+         "[" + super.vitalnost + " HP]" + (super.blokira ? "+" : "-") +
+                "| brzina: " + brzina + ", ugao: " +
                 ugao;
     }
 }

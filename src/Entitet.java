@@ -2,7 +2,7 @@ public class Entitet implements Blokira {
 
     protected double x, y;
     protected int vitalnost;
-    private boolean blokira;
+    protected boolean blokira;
 
     public Entitet() {
         x = 0;
@@ -36,9 +36,9 @@ public class Entitet implements Blokira {
     @Override
     public String toString() {
         return "Entitet:" +
-                "(<" + x + ">,<"+
-                 y + ">) [<" +
-                vitalnost + "> HP] "+
+                "(" + x + ","+
+                 y + ") [" +
+                vitalnost + " HP] "+
                 (blokira ? "+" : "-");
     }
 
